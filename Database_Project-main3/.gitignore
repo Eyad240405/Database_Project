@@ -1,0 +1,31 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+
+# Windows temp files
+*.log
+*.tmp
+*.bak
+*.orig
+Thumbs.db
+ehthumbs.db
+
+# NuGet packages (optional)
+packages/
+*.nupkg
+
+# Rider/JetBrains (if used)
+.idea/
+*.DotSettings.user
+
+# Ignore specific form
+MainForm.cs
+MainForm.Designer.cs
+MainForm.resx
